@@ -19,3 +19,6 @@ __pycache__/
 
 # 日志
 *.log
+
+# 本地工具数据
+.workbuddy/
